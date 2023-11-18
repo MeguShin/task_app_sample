@@ -59,7 +59,7 @@
 #     auth_methods: %w(publickey password)
 #     # password: "please use keys"
 #   }
-server "PublicIP",
+server "52.197.48.213",
 user: "ec2-user",
 roles: %w{web db app},
 ssh_options: {
